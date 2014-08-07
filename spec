@@ -5,3 +5,13 @@ Initial version:
     > 2: just by the look of it you remember what the command means, but have not used it often. CONTINUE using it
     > 3: you don't remember the command, you had to think to remember what the command does. CONTINUE using this command
     > 4: skip this set to undone set. Bring it up back at a later point of time
+
+Pickle
+    todo
+        key, value
+    faint_memory
+        key, value
+    remember
+        key, value
+    perfected
+        key, value
